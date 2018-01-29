@@ -1,0 +1,16 @@
+0ada6ed by Kelly Kurkowski @ Sun Jan 28 21:46:24 2018 -0500: Resolved merge conflict
+
+
+2af9954 by Kelly Kurkowski @ Sun Jan 28 21:02:35 2018 -0500: Implemented Ninety_Nine_Bottles_of_Beer() method in BeerSong.java
+
+
+335fc36 by Kelly Kurkowski @ Sun Jan 28 20:44:58 2018 -0500: Implemented Main() method in BeerSong.java
+
+
+a362d15 by Kelly Kurkowski @ Sun Jan 28 18:20:31 2018 -0500: Created BeerSong.java and added empty Main() and Nintey_Nine_Bottles_of_Beer() functions; Deleted empty file Assignment02.java and fixed some typos in README.txt
+
+
+5d5f7e4 by Kelly Kurkowski @ Sat Jan 27 23:17:46 2018 -0500: Update README.txt
+
+
+df7dc4e by Kelly Kurkowski @ Sat Jan 27 21:47:57 2018 -0500: Created initial project files.
